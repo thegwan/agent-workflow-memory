@@ -1,4 +1,4 @@
-# ATM for WebArena
+# AWM for WebArena
 
 ## Install
 
@@ -56,7 +56,7 @@ export OPENAI_API_KEY=<YOUR_KEY>
 ### Baseline Agent: No Memory
 
 ```bash
-python run.py --task "webarena.0" # switch task id from 0 to 811
+python run.py --task_name "webarena.0" # switch task id from 0 to 811
 ```
 
 You can check the results in `./results/...webarena.0.../`.
