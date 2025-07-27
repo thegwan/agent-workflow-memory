@@ -1,0 +1,10 @@
+## Concrete Examples
+
+
+Query: What is the top-1 best-selling product in 2022
+<think>
+The "Bestsellers" tab is currently selected, showing a list of products with their prices and quantities sold. The top product listed is "Quest Lumaflex™ Band" with a quantity of 6. This indicates it is the top-selling product for the period displayed.
+</think>
+<action>
+send_msg_to_user("The top-1 best-selling product in 2022 is 'Quest Lumaflex™ Band' with a quantity of 6 sold.")
+</action>
